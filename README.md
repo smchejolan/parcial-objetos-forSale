@@ -1,0 +1,2 @@
+# parcial objetos forSale
+ 
